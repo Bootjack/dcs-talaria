@@ -6,7 +6,8 @@ print("starting...")
 truck = {
   "unitType":"VAZ Car",
   "location":{"lat":41.606128002838335,"lng":41.609857542610176},
-  "liveryID":"autumn"
+  "liveryID":"autumn",
+  "skill":"excellent"
 }
 
 olympus = Olympus({
